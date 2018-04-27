@@ -1,0 +1,54 @@
+2018-04-27T02:30:26.671Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-27T02:30:26.675Z - normal: checking language setting...
+2018-04-27T02:30:26.675Z - normal: Language: zh
+2018-04-27T02:30:29.117Z - success: protocol editor-framework registered
+2018-04-27T02:30:29.117Z - success: protocol app registered
+2018-04-27T02:30:29.117Z - success: protocol theme registered
+2018-04-27T02:30:29.117Z - success: protocol packages registered
+2018-04-27T02:30:29.117Z - success: protocol unpack registerred
+2018-04-27T02:30:29.117Z - success: protocol disable-commonjs registerred
+2018-04-27T02:30:29.479Z - normal: connected!
+2018-04-27T02:30:29.496Z - normal: Check project C:\Users\cptbtgwj\Desktop\start02_project
+2018-04-27T02:30:29.496Z - normal: Initializing Cocos2d
+2018-04-27T02:30:30.017Z - normal: Initializing Asset Database
+2018-04-27T02:30:30.093Z - success: protocol uuid registerred
+2018-04-27T02:30:30.093Z - success: protocol db registerred
+2018-04-27T02:30:30.093Z - success: protocol thumbnail registerred
+2018-04-27T02:30:30.093Z - normal: Loading editor/builtin packages
+2018-04-27T02:30:30.155Z - success: anysdk loaded
+2018-04-27T02:30:30.438Z - success: assets loaded
+2018-04-27T02:30:30.438Z - success: builder loaded
+2018-04-27T02:30:30.438Z - success: cocos-analytics loaded
+2018-04-27T02:30:30.454Z - success: console loaded
+2018-04-27T02:30:30.537Z - success: fb-instant-games loaded
+2018-04-27T02:30:30.537Z - success: hierarchy loaded
+2018-04-27T02:30:30.537Z - success: inspector loaded
+2018-04-27T02:30:30.553Z - success: keystore loaded
+2018-04-27T02:30:30.553Z - success: node-library loaded
+2018-04-27T02:30:30.553Z - success: package-asset loaded
+2018-04-27T02:30:30.568Z - success: preferences loaded
+2018-04-27T02:30:30.569Z - success: project-exporter loaded
+2018-04-27T02:30:30.603Z - success: project-importer loaded
+2018-04-27T02:30:30.606Z - success: project-settings loaded
+2018-04-27T02:30:30.609Z - success: ui-kit loaded
+2018-04-27T02:30:30.609Z - success: ui-grid loaded
+2018-04-27T02:30:30.609Z - success: scene loaded
+2018-04-27T02:30:30.609Z - success: sprite-editor loaded
+2018-04-27T02:30:30.627Z - success: store loaded
+2018-04-27T02:30:30.628Z - success: timeline loaded
+2018-04-27T02:30:30.628Z - normal: Loading builtin packages
+2018-04-27T02:30:30.628Z - success: asset-db-debugger loaded
+2018-04-27T02:30:30.628Z - success: code-editor loaded
+2018-04-27T02:30:30.628Z - success: color-picker loaded
+2018-04-27T02:30:30.646Z - success: package-manager loaded
+2018-04-27T02:30:30.653Z - success: sdkbox loaded
+2018-04-27T02:30:30.656Z - success: tester loaded
+2018-04-27T02:30:30.656Z - success: ui-kit-preview-extra loaded
+2018-04-27T02:30:30.656Z - success: ui-kit-preview loaded
+2018-04-27T02:30:30.656Z - success: ui-tree loaded
+2018-04-27T02:30:32.770Z - normal: Initializing project C:\Users\cptbtgwj\Desktop\start02_project
+2018-04-27T02:30:32.777Z - normal: Loading packages
+2018-04-27T02:30:32.777Z - normal: Watching packages
+2018-04-27T02:30:32.815Z - normal: Run Application
+2018-04-27T02:30:34.953Z - success: preview server running at http://localhost:7456
+2018-04-27T02:30:40.513Z - normal: 1.9.0
